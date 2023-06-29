@@ -1,3 +1,3 @@
 export const Item = ()=>{
-    return <div>Card</div>
+    return (<div>Card</div>);
   };

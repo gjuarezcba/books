@@ -1,4 +1,4 @@
-import { FaBeer } from 'react-icons/fa';
+import { FaShoppingCart } from 'react-icons/fa';
 export const NavBar = ()=>{
     return (
     <header>
@@ -9,12 +9,10 @@ export const NavBar = ()=>{
         }}>
           <img src={"https://www.shutterstock.com/image-photo/kiev-ukraine-march-31-2015-260nw-275940803.jpg"}  className="logo" alt="Gus Logo"/>
           <span>Menu</span>
-          <FaBeer />
+          <FaShoppingCart />
           <nav>
             <a>Misterio</a>
             <a>Terror</a>
-            <a>Terror</a>
-            
           </nav>
         </div>
       </div>
