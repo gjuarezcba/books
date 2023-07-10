@@ -1,3 +1,5 @@
-export const Item = ()=>{
-    return (<div>Card</div>);
-  };
+const Item = ()=>{
+    return (<div>Saludo a Todos</div>);
+};
+
+export default Item;
